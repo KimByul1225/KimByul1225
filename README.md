@@ -1,5 +1,8 @@
 ## Contact me 🙌🏻
 [![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:byulkim1225@gmail.com)](mailto:byulkim1225@gmail.com)
+<br/>
+[![Blog](https://img.shields.io/badge/Blog-82bcfe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJtMTQgMTMuMjVoLTRjLS40MSAwLS43NS4zNC0uNzUuNzVzLjM0Ljc1Ljc1Ljc1aDRjLjQxIDAgLjc1LS4zNC43NS0uNzVzLS4zNC0uNzUtLjc1LS43NXoiLz48cGF0aCBkPSJtMTAgMTAuNzVoMmMuNDEgMCAuNzUtLjM0Ljc1LS43NXMtLjM0LS43NS0uNzUtLjc1aC0yYy0uNDEgMC0uNzUuMzQtLjc1Ljc1cy4zNC43NS43NS43NXoiLz48cGF0aCBkPSJtMTYuMTg5OCAyaC04LjM3MDA0Yy0zLjY0IDAtNS44MDk5OSAyLjE3LTUuODA5OTkgNS44MXY4LjM3YzAgMy42NCAyLjE2OTk5IDUuODEgNS44MDk5OSA1LjgxaDguMzcwMDRjMy42NCAwIDUuODEtMi4xNyA1LjgxLTUuODF2LTguMzdjMC0zLjY0LTIuMTctNS44MS01LjgxLTUuODF6bTEuODEgMTNjMCAyLTEgMy0zIDNoLTYuMDAwMDRjLTIgMC0zLTEtMy0zdi02YzAtMiAxLTMgMy0zaDQuMDAwMDRjMiAwIDMgMSAzIDN2MWMwIC41NS40NSAxIDEgMXMxIC40NSAxIDF6Ii8+PC9nPjwvc3ZnPg==&link=https://byulkim-blog.netlify.app)](https://byulkim-blog.netlify.app)
+<br/>
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://github.com/KimByul1225)](https://github.com/KimByul1225)
 
 

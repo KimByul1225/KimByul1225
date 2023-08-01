@@ -1,5 +1,5 @@
 ## Contact me 🙌🏻
-[![email Badge](https://img.shields.io/badge/-E--mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:byulkim1225@gmail.com)](mailto:byulkim1225@gmail.com)
+[![email Badge](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:byulkim1225@gmail.com)](mailto:byulkim1225@gmail.com)
 
 ## Stacks 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 

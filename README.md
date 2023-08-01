@@ -28,6 +28,7 @@
 ![Gatsby](https://img.shields.io/badge/gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br/>
+<br/>
 
 ## Now Studying ✍🏻
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)

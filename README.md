@@ -1,5 +1,7 @@
 ## Contact me 🙌🏻
-[![email Badge](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:byulkim1225@gmail.com)](mailto:byulkim1225@gmail.com)
+[![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:byulkim1225@gmail.com)](mailto:byulkim1225@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://github.com/KimByul1225)](https://github.com/KimByul1225)
+
 
 ## Stacks 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 

@@ -3,6 +3,15 @@
 [![Blog](https://img.shields.io/badge/Blog-3178C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iJiMxMDsgICAgZmlsbDogd2hpdGU7JiMxMDsiPjxwYXRoIGQ9Im0yOTAuNzQgOTMuMjQgMTI4LjAyIDEyOC4wMi0yNzcuOTkgMjc3Ljk5LTExNC4xNCAxMi42Yy0xNS4yOCAxLjY5LTI4LjE5LTExLjIzLTI2LjQ5LTI2LjUxbDEyLjctMTE0LjIyem0yMDcuMi0xOS4wNi02MC4xMS02MC4xMWMtMTguNzUtMTguNzUtNDkuMTYtMTguNzUtNjcuOTEgMGwtNTYuNTUgNTYuNTUgMTI4LjAyIDEyOC4wMiA1Ni41NS01Ni41NWMxOC43NS0xOC43NiAxOC43NS00OS4xNiAwLTY3LjkxeiIvPjwvc3ZnPg==&link=https://byulkim-blog.netlify.app)](https://byulkim-blog.netlify.app)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://github.com/KimByul1225)](https://github.com/KimByul1225)
 <br/>
+<p>
+  Hi there! 👋🏻 <br/>
+  My name is Byul Kim. 🌠 <br/>
+  Welcome to my Github. 🎉 <br/><br/>
+  I'm React developer who likes camping.⛺️ <br/>
+  I have 3years of front-end development experience and am interested in creating UI and front-end with React.🧑🏻‍💻 <br/>
+  Recently, I am very interested in NEXT JS, GraphQL, and Node JS.🤩 <br/><br/>
+  I aspire to be a developer who develops what people need. 🙌🏻 
+</p>
 <br/>
 <br/>
 

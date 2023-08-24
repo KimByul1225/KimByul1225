@@ -1,5 +1,4 @@
 ## Contact me 🫱🏻‍🫲🏼
-[![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:byulkim1225@gmail.com)](mailto:byulkim1225@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-3178C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iJiMxMDsgICAgZmlsbDogd2hpdGU7JiMxMDsiPjxwYXRoIGQ9Im0yOTAuNzQgOTMuMjQgMTI4LjAyIDEyOC4wMi0yNzcuOTkgMjc3Ljk5LTExNC4xNCAxMi42Yy0xNS4yOCAxLjY5LTI4LjE5LTExLjIzLTI2LjQ5LTI2LjUxbDEyLjctMTE0LjIyem0yMDcuMi0xOS4wNi02MC4xMS02MC4xMWMtMTguNzUtMTguNzUtNDkuMTYtMTguNzUtNjcuOTEgMGwtNTYuNTUgNTYuNTUgMTI4LjAyIDEyOC4wMiA1Ni41NS01Ni41NWMxOC43NS0xOC43NiAxOC43NS00OS4xNiAwLTY3LjkxeiIvPjwvc3ZnPg==&link=https://byulkim-blog.netlify.app)](https://byulkim-blog.netlify.app)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://byulkim.notion.site/byulkim/Study-c54ee2e3769d48f3ba6dd0bd8cccad13)](https://byulkim.notion.site/byulkim/Study-c54ee2e3769d48f3ba6dd0bd8cccad13)<br/>
 <p>

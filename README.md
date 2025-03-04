@@ -16,6 +16,7 @@
 ## Stacks 💻
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
 <br/>
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
